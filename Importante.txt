@@ -1,0 +1,13 @@
+Tener en cuenta las versiones usadas para el desarrollo de la prueba.
+
+Php:8.0.30
+Node:v20.12.0
+Angular Cli:17.3.2
+npm: 10.5.0
+
+Tomaren cuenta el cambio de credenciales en la conexion a la base de datos en el archivo back-php-prueba-tecnica/conexion.php
+
+El proyecto es enviado sin la carpeta node_modules para reducir el peso, paraa isntalar los mismos ejecutar el comando "npm install"
+Adicional se aadjunta un aarchivo en el back-php-prueba-tecnica para crear las tablas y registros previos en labase de datos.
+
+Muchas gracias por tomarme en cuenta para la prueba, cualquier sugerencia es bien recibida para poder mejorar.
